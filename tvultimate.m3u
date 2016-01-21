@@ -15,10 +15,10 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
 http://tvultimate.ddns.net/LIVE/H01/CANAL201/PROFILE03.m3u8?tvultimate=%2F.ts
+#EXTINF:-1 tvg-logo="mtv.png",MTV
+http://tvultimate.ddns.net/LIVE/H01/CANAL726/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="a&e.png",A&E 
 http://tvultimate.ddns.net/LIVE/H01/CANAL211/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:0 tvg-logo="unicable.png",Unicable
-http://tvultimate.ddns.net/LIVE/H01/CANAL218/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="!e.png",E! 
 http://tvultimate.ddns.net/LIVE/H01/CANAL255/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="Latino-SYFY.png",SyFy
@@ -70,8 +70,6 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL491/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="studio universal.png",Studio Universal
 http://tvultimate.ddns.net/LIVE/H01/CANAL492/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="sat.1 hd.png",I.Sat
-http://tvultimate.ddns.net/LIVE/H01/CANAL495/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="mtv.png",MTV
 http://tvultimate.ddns.net/LIVE/H01/CANAL726/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="disney channel.png",Disney Channel
 http://tvultimate.ddns.net/LIVE/H01/CANAL312/PROFILE03.m3u8?tvultimate=%2F.ts
